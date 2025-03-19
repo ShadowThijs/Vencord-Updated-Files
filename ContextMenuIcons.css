@@ -178,206 +178,260 @@
   --cmi-yahoo: url(https://raw.githubusercontent.com/924e50c0/ContextMenuIcons/main/svg/yahoo.svg);
 }
 
-[data-tab-id="VencordSettings"]::before {
-    mask: var(--cmi-settings) center/contain no-repeat !important;
+.side_b3f026 .vc-settings.item_b3f026 {
+  /* Styles for the Vencord settings tab */
+  mask: var(--cmi-settings) center/contain no-repeat !important;
 }
 
-[data-tab-id="VencordThemes"]::before {
-    mask: var(--cmi-widgets) center/contain no-repeat !important;
+.side_b3f026 .vc-plugins.item_b3f026 {
+  /* Styles for the Vencord plugins tab */
+  mask: var(--cmi-widgets) center/contain no-repeat !important;
 }
 
-[data-tab-id="VencordUpdater"]::before {
-    mask: var(--cmi-refresh) center/contain no-repeat !important;
+.side_b3f026 .vc-themes.item_b3f026 {
+  /* Styles for the Vencord themes tab */
+  mask: var(--cmi-widgets) center/contain no-repeat !important;
 }
 
-[data-tab-id="VencordCloud"]::before {
-    mask: var(--cmi-syncdesktop) center/contain no-repeat !important;
+.side_b3f026 .vc-updater.item_b3f026 {
+  /* Styles for the Vencord updater tab */
+  mask: var(--cmi-refresh) center/contain no-repeat !important;
 }
 
-[data-tab-id="VencordSettingsSync"]::before {
-    mask: var(--cmi-settingsnext) center/contain no-repeat !important;
+.side_b3f026 .vc-cloud.item_b3f026 {
+  /* Styles for the Vencord cloud tab */
+  mask: var(--cmi-syncdesktop) center/contain no-repeat !important;
 }
 
-[data-tab-id="My Account"]::before {
-    mask: var(--cmi-profile) center/contain no-repeat !important;
+.side_b3f026 .vc-backup-restore.item_b3f026 {
+  /* Styles for the Vencord backup & restore tab */
+  mask: var(--cmi-settingsnext) center/contain no-repeat !important;
 }
 
-[data-tab-id="Profile Customization"]::before {
-    mask: var(--cmi-editprofile) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="My Account"].item_b3f026 {
+  /* Styles for the My Account tab */
+  mask: var(--cmi-profile) center/contain no-repeat !important;
 }
 
-[data-tab-id="Content & Social"]::before {
-    mask: var(--cmi-chat) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Profile Customization"].item_b3f026 {
+  /* Styles for the Profiles tab */
+  mask: var(--cmi-editprofile) center/contain no-repeat !important;
 }
 
-[data-tab-id="Data & Privacy"]::before {
-    mask: var(--cmi-shield) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Content & Social"].item_b3f026 {
+  /* Styles for the Content & Social tab */
+  mask: var(--cmi-chat) center/contain no-repeat !important;
 }
 
-[data-tab-id="Family Center"]::before {
-    mask: var(--cmi-insight) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Data & Privacy"].item_b3f026 {
+  /* Styles for the Data & Privacy tab */
+  mask: var(--cmi-shield) center/contain no-repeat !important;
 }
 
-[data-tab-id="Authorized Apps"]::before {
-    mask: var(--cmi-apps) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Family Center"].item_b3f026 {
+  /* Styles for the Family Center tab */
+  mask: var(--cmi-insight) center/contain no-repeat !important;
 }
 
-[data-tab-id="Sessions"]::before {
-    mask: var(--cmi-activity) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Authorized Apps"].item_b3f026 {
+  /* Styles for the Authorized Apps tab */
+  mask: var(--cmi-apps) center/contain no-repeat !important;
 }
 
-[data-tab-id="Connections"]::before {
-    mask: var(--cmi-link) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Sessions"].item_b3f026 {
+  /* Styles for the Devices tab */
+  mask: var(--cmi-activity) center/contain no-repeat !important;
 }
 
-[data-tab-id="Settings Clips"]::before {
-    mask: var(--cmi-video) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Connections"].item_b3f026 {
+  /* Styles for the Connections tab */
+  mask: var(--cmi-link) center/contain no-repeat !important;
 }
 
-[data-tab-id="Discord Nitro"]::before {
-    mask: var(--cmi-nitro) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Settings Clips"].item_b3f026 {
+  /* Styles for the Clips tab */
+  mask: var(--cmi-video) center/contain no-repeat !important;
 }
 
-[data-tab-id="Nitro Server Boost"]::before {
-    mask: var(--cmi-serverboost) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Discord Nitro"].item_b3f026 {
+  /* Styles for the Nitro tab */
+  mask: var(--cmi-nitro) center/contain no-repeat !important;
 }
 
-[data-tab-id="Subscriptions"]::before {
-    mask: var(--cmi-paymentsettings) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Nitro Server Boost"].item_b3f026 {
+  /* Styles for the Server Boost tab */
+  mask: var(--cmi-serverboost) center/contain no-repeat !important;
 }
 
-[data-tab-id="Library Inventory"]::before {
-    mask: var(--cmi-list) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Subscriptions"].item_b3f026 {
+  /* Styles for the Subscriptions tab */
+  mask: var(--cmi-paymentsettings) center/contain no-repeat !important;
 }
 
-[data-tab-id="Billing"]::before {
-    mask: var(--cmi-paymentsettings) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Library Inventory"].item_b3f026 {
+  /* Styles for the Gift Inventory tab */
+  mask: var(--cmi-list) center/contain no-repeat !important;
 }
 
-[data-tab-id="Appearance"]::before {
-    mask: var(--cmi-image) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Billing"].item_b3f026 {
+  /* Styles for the Billing tab */
+  mask: var(--cmi-paymentsettings) center/contain no-repeat !important;
 }
 
-[data-tab-id="Accessibility"]::before {
-    mask: var(--cmi-view) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Appearance"].item_b3f026 {
+  /* Styles for the Appearance tab */
+  mask: var(--cmi-image) center/contain no-repeat !important;
 }
 
-[data-tab-id="Voice & Video"]::before {
-    mask: var(--cmi-voice) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Accessibility"].item_b3f026 {
+  /* Styles for the Accessibility tab */
+  mask: var(--cmi-view) center/contain no-repeat !important;
 }
 
-[data-tab-id="Text & Images"]::before {
-    mask: var(--cmi-addimage) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Voice & Video"].item_b3f026 {
+  /* Styles for the Voice & Video tab */
+  mask: var(--cmi-voice) center/contain no-repeat !important;
 }
 
-[data-tab-id="Notifications"]::before {
-    mask: var(--cmi-notificationsdefault) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Text & Images"].item_b3f026 {
+  /* Styles for the Chat tab */
+  mask: var(--cmi-addimage) center/contain no-repeat !important;
 }
 
-[data-tab-id="Keybinds"]::before {
-    mask: var(--cmi-keyboard) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Notifications"].item_b3f026 {
+  /* Styles for the Notifications tab */
+  mask: var(--cmi-notificationsdefault) center/contain no-repeat !important;
 }
 
-[data-tab-id="Language"]::before {
-    mask: var(--cmi-language) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Keybinds"].item_b3f026 {
+  /* Styles for the Keybinds tab */
+  mask: var(--cmi-keyboard) center/contain no-repeat !important;
 }
 
-[data-tab-id="Windows"]::before {
-    mask: var(--cmi-syncdesktop) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Language"].item_b3f026 {
+  /* Styles for the Language tab */
+  mask: var(--cmi-language) center/contain no-repeat !important;
 }
 
-[data-tab-id="Streamer Mode"]::before {
-    mask: var(--cmi-camera) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Windows"].item_b3f026 {
+  /* Styles for the Windows Settings tab */
+  mask: var(--cmi-syncdesktop) center/contain no-repeat !important;
 }
 
-[data-tab-id="Advanced"]::before {
-    mask: var(--cmi-code) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Streamer Mode"].item_b3f026 {
+  /* Styles for the Streamer Mode tab */
+  mask: var(--cmi-camera) center/contain no-repeat !important;
 }
 
-[data-tab-id="Activity Privacy"]::before {
-    mask: var(--cmi-activitysettings) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Advanced"].item_b3f026 {
+  /* Styles for the Advanced tab */
+  mask: var(--cmi-code) center/contain no-repeat !important;
 }
 
-[data-tab-id="Game Activity"]::before {
-    mask: var(--cmi-activity) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Activity Privacy"].item_b3f026 {
+  /* Styles for the Activity Privacy tab */
+  mask: var(--cmi-activitysettings) center/contain no-repeat !important;
 }
 
-[data-tab-id="Overlay"]::before {
-    mask: var(--cmi-splitview) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Game Activity"].item_b3f026 {
+  /* Styles for the Registered Games tab */
+  mask: var(--cmi-activity) center/contain no-repeat !important;
 }
 
-[data-tab-id="changelog"]::before {
-    mask: var(--cmi-list) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Overlay"].item_b3f026 {
+  /* Styles for the Game Overlay tab */
+  mask: var(--cmi-splitview) center/contain no-repeat !important;
 }
 
-[data-tab-id="merchandise"]::before {
-    mask: var(--cmi-image) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="changelog"].item_b3f026 {
+  /* Styles for the What's New tab */
+  mask: var(--cmi-list) center/contain no-repeat !important;
 }
 
-[data-tab-id="Hypesquad Online"]::before {
-    mask: var(--cmi-studenthubs) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="merchandise"].item_b3f026 {
+  /* Styles for the Merch tab */
+  mask: var(--cmi-image) center/contain no-repeat !important;
 }
 
-[data-tab-id="Experiments"]::before {
-    mask: var(--cmi-lightbulb) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Hypesquad Online"].item_b3f026 {
+  /* Styles for the HypeSquad tab */
+  mask: var(--cmi-studenthubs) center/contain no-repeat !important;
 }
 
-[data-tab-id="Developer Options"]::before {
-    mask: var(--cmi-code) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Experiments"].item_b3f026 {
+  /* Styles for the Experiments tab */
+  mask: var(--cmi-suggestion) center/contain no-repeat !important;
 }
 
-[data-tab-id="Hotspot Options"]::before {
-    mask: var(--cmi-wifi) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Developer Options"].item_b3f026 {
+  /* Styles for the Developer Options tab */
+  mask: var(--cmi-code) center/contain no-repeat !important;
 }
 
-[data-tab-id="Dismissible Content Options"]::before {
-    mask: var(--cmi-viewoff) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Hotspot Options"].item_b3f026 {
+  /* Styles for the Hotspot Options tab */
+  mask: var(--cmi-wifi) center/contain no-repeat !important;
 }
 
-[data-tab-id="Payment Flow Modals"]::before {
-    mask: var(--cmi-paymentsettings) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Dismissible Content Options"].item_b3f026 {
+  /* Styles for the Dismissible Contents tab */
+  mask: var(--cmi-viewoff) center/contain no-repeat !important;
 }
 
-[data-tab-id="Revenue Storybook"]::before {
-    mask: var(--cmi-insight) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Payment Flow Modals"].item_b3f026 {
+  /* Styles for the Payment Flow Modals tab */
+  mask: var(--cmi-paymentsettings) center/contain no-repeat !important;
 }
 
-[data-tab-id="Virtual Currency Configuration"]::before {
-    mask: var(--cmi-paymentsettings) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Revenue Storybook"].item_b3f026 {
+  /* Styles for the Revenue Storybook tab */
+  mask: var(--cmi-insight) center/contain no-repeat !important;
 }
 
-[data-tab-id="Design System"]::before {
-    mask: var(--cmi-image) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Virtual Currency Configuration"].item_b3f026 {
+  /* Styles for the Virtual Currency Config tab */
+  mask: var(--cmi-paymentsettings) center/contain no-repeat !important;
 }
 
-[data-tab-id="Text Playground"]::before {
-    mask: var(--cmi-markdown) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Design System"].item_b3f026 {
+  /* Styles for the Design Systems tab */
+  mask: var(--cmi-image) center/contain no-repeat !important;
 }
 
-[data-tab-id="Text Component"]::before {
-    mask: var(--cmi-texttospeech) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Text Playground"].item_b3f026 {
+  /* Styles for the Text Playground tab */
+  mask: var(--cmi-markdown) center/contain no-repeat !important;
 }
 
-[data-tab-id="Intl Testing"]::before {
-    mask: var(--cmi-translate) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Text Component"].item_b3f026 {
+  /* Styles for the Text Components tab */
+  mask: var(--cmi-texttospeech) center/contain no-repeat !important;
 }
 
-[data-tab-id="Profile Effects Preview Tool"]::before {
-    mask: var(--cmi-animation) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Intl Testing"].item_b3f026 {
+  /* Styles for the Intl Testing tab */
+  mask: var(--cmi-translate) center/contain no-repeat !important;
 }
 
-[data-tab-id="Nameplates Preview Tool"]::before {
-    mask: var(--cmi-id) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Profile Effects Preview Tool"].item_b3f026 {
+  /* Styles for the Profile Effects Preview Tool tab */
+  mask: var(--cmi-animation) center/contain no-repeat !important;
 }
 
-[data-tab-id="Web Setting Tree Tool"]::before {
-    mask: var(--cmi-settingsnext) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Nameplates Preview Tool"].item_b3f026 {
+  /* Styles for the Nameplates Preview Tool tab */
+  mask: var(--cmi-id) center/contain no-repeat !important;
 }
 
-[data-tab-id="logout"]::before {
-    mask: var(--cmi-leave) center/contain no-repeat !important;
+.side_b3f026 [data-tab-id="Web Setting Tree Tool"].item_b3f026 {
+  /* Styles for the Web Setting Tree Tool tab */
+  mask: var(--cmi-settingsnext) center/contain no-repeat !important;
 }
-  
+
+.side_b3f026 [data-tab-id="logout"].item_b3f026 {
+  /* Styles for the logout option */
+  mask: var(--cmi-leave) center/contain no-repeat !important;
+}
 
 .menu_c1e9c4:is(
     [id="message"],

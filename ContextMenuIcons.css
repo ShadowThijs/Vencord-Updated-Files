@@ -178,203 +178,203 @@
   --cmi-yahoo: url(https://raw.githubusercontent.com/924e50c0/ContextMenuIcons/main/svg/yahoo.svg);
 }
 
-.side_b3f026 > [data-tab-id="VencordSettings"]::before {
+[data-tab-id="VencordSettings"]::before {
     mask: var(--cmi-settings) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="VencordThemes"]::before {
+[data-tab-id="VencordThemes"]::before {
     mask: var(--cmi-widgets) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="VencordUpdater"]::before {
+[data-tab-id="VencordUpdater"]::before {
     mask: var(--cmi-refresh) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="VencordCloud"]::before {
+[data-tab-id="VencordCloud"]::before {
     mask: var(--cmi-syncdesktop) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="VencordSettingsSync"]::before {
+[data-tab-id="VencordSettingsSync"]::before {
     mask: var(--cmi-settingsnext) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="My Account"]::before {
+[data-tab-id="My Account"]::before {
     mask: var(--cmi-profile) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Profile Customization"]::before {
+[data-tab-id="Profile Customization"]::before {
     mask: var(--cmi-editprofile) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Content & Social"]::before {
+[data-tab-id="Content & Social"]::before {
     mask: var(--cmi-chat) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Data & Privacy"]::before {
+[data-tab-id="Data & Privacy"]::before {
     mask: var(--cmi-shield) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Family Center"]::before {
+[data-tab-id="Family Center"]::before {
     mask: var(--cmi-insight) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Authorized Apps"]::before {
+[data-tab-id="Authorized Apps"]::before {
     mask: var(--cmi-apps) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Sessions"]::before {
+[data-tab-id="Sessions"]::before {
     mask: var(--cmi-activity) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Connections"]::before {
+[data-tab-id="Connections"]::before {
     mask: var(--cmi-link) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Settings Clips"]::before {
+[data-tab-id="Settings Clips"]::before {
     mask: var(--cmi-video) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Discord Nitro"]::before {
+[data-tab-id="Discord Nitro"]::before {
     mask: var(--cmi-nitro) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Nitro Server Boost"]::before {
+[data-tab-id="Nitro Server Boost"]::before {
     mask: var(--cmi-serverboost) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Subscriptions"]::before {
+[data-tab-id="Subscriptions"]::before {
     mask: var(--cmi-paymentsettings) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Library Inventory"]::before {
+[data-tab-id="Library Inventory"]::before {
     mask: var(--cmi-list) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Billing"]::before {
+[data-tab-id="Billing"]::before {
     mask: var(--cmi-paymentsettings) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Appearance"]::before {
+[data-tab-id="Appearance"]::before {
     mask: var(--cmi-image) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Accessibility"]::before {
+[data-tab-id="Accessibility"]::before {
     mask: var(--cmi-view) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Voice & Video"]::before {
+[data-tab-id="Voice & Video"]::before {
     mask: var(--cmi-voice) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Text & Images"]::before {
+[data-tab-id="Text & Images"]::before {
     mask: var(--cmi-addimage) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Notifications"]::before {
+[data-tab-id="Notifications"]::before {
     mask: var(--cmi-notificationsdefault) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Keybinds"]::before {
+[data-tab-id="Keybinds"]::before {
     mask: var(--cmi-keyboard) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Language"]::before {
+[data-tab-id="Language"]::before {
     mask: var(--cmi-language) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Windows"]::before {
+[data-tab-id="Windows"]::before {
     mask: var(--cmi-syncdesktop) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Streamer Mode"]::before {
+[data-tab-id="Streamer Mode"]::before {
     mask: var(--cmi-camera) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Advanced"]::before {
+[data-tab-id="Advanced"]::before {
     mask: var(--cmi-code) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Activity Privacy"]::before {
+[data-tab-id="Activity Privacy"]::before {
     mask: var(--cmi-activitysettings) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Game Activity"]::before {
+[data-tab-id="Game Activity"]::before {
     mask: var(--cmi-activity) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Overlay"]::before {
+[data-tab-id="Overlay"]::before {
     mask: var(--cmi-splitview) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="changelog"]::before {
+[data-tab-id="changelog"]::before {
     mask: var(--cmi-list) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="merchandise"]::before {
+[data-tab-id="merchandise"]::before {
     mask: var(--cmi-image) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Hypesquad Online"]::before {
+[data-tab-id="Hypesquad Online"]::before {
     mask: var(--cmi-studenthubs) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Experiments"]::before {
+[data-tab-id="Experiments"]::before {
     mask: var(--cmi-lightbulb) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Developer Options"]::before {
+[data-tab-id="Developer Options"]::before {
     mask: var(--cmi-code) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Hotspot Options"]::before {
+[data-tab-id="Hotspot Options"]::before {
     mask: var(--cmi-wifi) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Dismissible Content Options"]::before {
+[data-tab-id="Dismissible Content Options"]::before {
     mask: var(--cmi-viewoff) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Payment Flow Modals"]::before {
+[data-tab-id="Payment Flow Modals"]::before {
     mask: var(--cmi-paymentsettings) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Revenue Storybook"]::before {
+[data-tab-id="Revenue Storybook"]::before {
     mask: var(--cmi-insight) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Virtual Currency Configuration"]::before {
+[data-tab-id="Virtual Currency Configuration"]::before {
     mask: var(--cmi-paymentsettings) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Design System"]::before {
+[data-tab-id="Design System"]::before {
     mask: var(--cmi-image) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Text Playground"]::before {
+[data-tab-id="Text Playground"]::before {
     mask: var(--cmi-markdown) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Text Component"]::before {
+[data-tab-id="Text Component"]::before {
     mask: var(--cmi-texttospeech) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Intl Testing"]::before {
+[data-tab-id="Intl Testing"]::before {
     mask: var(--cmi-translate) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Profile Effects Preview Tool"]::before {
+[data-tab-id="Profile Effects Preview Tool"]::before {
     mask: var(--cmi-animation) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Nameplates Preview Tool"]::before {
+[data-tab-id="Nameplates Preview Tool"]::before {
     mask: var(--cmi-id) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="Web Setting Tree Tool"]::before {
+[data-tab-id="Web Setting Tree Tool"]::before {
     mask: var(--cmi-settingsnext) center/contain no-repeat !important;
 }
 
-.side_b3f026 > [data-tab-id="logout"]::before {
+[data-tab-id="logout"]::before {
     mask: var(--cmi-leave) center/contain no-repeat !important;
 }
   
